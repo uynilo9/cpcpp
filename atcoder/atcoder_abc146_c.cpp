@@ -2,7 +2,9 @@
 using namespace std;
 
 int get_digit(long long n) {
-    if (n==0) return 1;
+    if (n==0)
+        return 1;
+
     int d=0;
     while (n>0) {
         n/=10;
