@@ -13,7 +13,7 @@ CP, standing for competitive programming, is a kind of sport. CP questions look 
 
 - AtCoder: https://atcoder.jp/
 - Kattis: https://open.kattis.com/
-- Leetcode: https://leetcode.com/
+- LeetCode: https://leetcode.com/
 - NTOJ (aka New TNFSH Online Judge): https://toj.tfcis.org/oj/
 
 ## ⚖️ License
