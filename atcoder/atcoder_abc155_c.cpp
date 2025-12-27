@@ -6,7 +6,7 @@ int main() {
     cin>>n;
 
     int max=0;
-    map<string, int> votes;
+    map<string,int> votes;
     for (int i=0;i<n;i++) {
         string name;
         cin>>name;
@@ -14,7 +14,7 @@ int main() {
         max=votes[name]>max?votes[name]:max;
     }
 
-    for (const auto &[name, num]:votes) {
+    for (const auto& [name,num]:votes) {
         if (num==max)
             cout<<name<<"\n";
     }
