@@ -1,4 +1,4 @@
-# NTOJ aka New TNFSH Online Judge
+# NTOJ (aka New TNFSH Online Judge)
 
 > [!WARNING]
 > Problem descriptions are provided in Traditional Chinese Mandarin only.
