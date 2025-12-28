@@ -17,4 +17,4 @@
 | [abc 247 task D](https://atcoder.jp/contests/abc247/tasks/abc247_d) | Cylinder              | [atcoder_abc247_d.cpp](./atcoder_abc247_d.cpp) |
 | [abc 283 task D](https://atcoder.jp/contests/abc283/tasks/abc283_d) | Scope                 | [atcoder_abc283_d.cpp](./atcoder_abc283_d.cpp) |
 | [abc 301 task C](https://atcoder.jp/contests/abc301/tasks/abc301_c) | AtCoder Cards         | [atcoder_abc301_c.cpp](./atcoder_abc301_c.cpp) |
-| [ARC 084 task A](https://atcoder.jp/contests/arc084/tasks/arc084_a) | Snuke Festival        | [atcoder_arc084_a.cpp](./atcoder_arc084_a.cpp) |
+| [arc 084 task A](https://atcoder.jp/contests/arc084/tasks/arc084_a) | Snuke Festival        | [atcoder_arc084_a.cpp](./atcoder_arc084_a.cpp) |
