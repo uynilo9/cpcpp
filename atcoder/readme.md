@@ -1,5 +1,8 @@
 # AtCoder
 
+> [!WARNING]
+> Some problem descriptions are provided in Japanese only.
+
 ## 📃 Catalogue
 
 | ID                                                                           | Title                 | File                                                 |
