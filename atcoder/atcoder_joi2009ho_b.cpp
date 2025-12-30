@@ -26,10 +26,9 @@ int main() {
 
     long long total=0;
     for (const auto dest:dests) {
-        auto upper_it_shop=upper_bound(shops.begin(),shops.end(),dest);
-        auto lower_it_shop=upper_it_shop-1;
+        auto it=upper_bound(shops.begin(),shops.end(),dest);
 
-        total+=min(*upper_it_shop-dest,dest-*lower_it_shop);
+        total+=min(*it-dest,dest-*prev(it));
     }
 
     cout<<total<<endl;
