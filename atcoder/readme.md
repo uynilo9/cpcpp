@@ -21,6 +21,7 @@
 | [abc 283 task D](https://atcoder.jp/contests/abc283/tasks/abc283_d)                | Scope                 | [atcoder_abc283_d.cpp](./atcoder_abc283_d.cpp)           |
 | [abc 301 task C](https://atcoder.jp/contests/abc301/tasks/abc301_c)                | AtCoder Cards         | [atcoder_abc301_c.cpp](./atcoder_abc301_c.cpp)           |
 | [abc 312 task C](https://atcoder.jp/contests/abc312/tasks/abc312_c)                | Invisible Hand        | [atcoder_abc312_c.cpp](./atcoder_abc312_c.cpp)           |
+| [abc 354 task C](https://atcoder.jp/contests/abc354/tasks/abc354_c)                | AtCoder Magics        | [atcoder_abc354_c.cpp](./atcoder_abc354_c.cpp)           |
 | [arc 084 task A](https://atcoder.jp/contests/arc084/tasks/arc084_a)                | Snuke Festival        | [atcoder_arc084_a.cpp](./atcoder_arc084_a.cpp)           |
 | [typical90 task G (007)](https://atcoder.jp/contests/typical90/tasks/typical90_g)  | CP Classes            | [atcoder_typical90_g.cpp](./atcoder_typical90_g.cpp)     |
 | [joi 2009ho task B](https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b)       | ピザ                    | [atcoder_joi2009ho_b.cpp](./atcoder_joi2009ho_b.cpp)     |
