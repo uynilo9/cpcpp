@@ -18,7 +18,7 @@ int main() {
         int height;
         cin>>height;
 
-        auto it = lower_bound(heights.begin(),heights.end(),height);
+        auto it =lower_bound(heights.begin(),heights.end(),height);
         int count=heights.end()-it;
         cout<<count<<"\n";
     }
