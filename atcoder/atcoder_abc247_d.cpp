@@ -44,7 +44,7 @@ int main() {
                     break;
                 }
 
-                sum+=ball.front().second*(ballCount);
+                sum+=ball.front().second*ballCount;
                 count-=ballCount;
                 ballIndexOffset+=ballCount;
                 ball.pop_front();
