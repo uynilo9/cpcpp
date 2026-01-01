@@ -31,7 +31,7 @@ int main() {
         total+=min(*it-dest,dest-*prev(it));
     }
 
-    cout<<total<<endl;
+    cout<<total<<"\n";
 
     return 0;
 }
