@@ -9,20 +9,30 @@
 |:-----------------------------------------------------------------------------------|:---------------------------|:---------------------------------------------------------|
 | [abc 048 task B](https://atcoder.jp/contests/abc048/tasks/abc048_b)                | Between a and b...         | [atcoder_abc048_b.cpp](./atcoder_abc048_b.cpp)           |
 | [abc 051 task B](https://atcoder.jp/contests/abc051/tasks/abc051_b)                | Sum of Three Integers      | [atcoder_abc051_b.cpp](./atcoder_abc051_b.cpp)           |
+| [abc 054 task B](https://atcoder.jp/contests/abc054/tasks/abc054_b)                | Template Matching          | [atcoder_abc054_b.cpp](./atcoder_abc054_b.cpp)           |
 | [abc 081 task A](https://atcoder.jp/contests/abc081/tasks/abc081_a)                | Placing Marbles Integers   | [atcoder_abc081_a.cpp](./atcoder_abc081_a.cpp)           |
+| [abc 081 task B](https://atcoder.jp/contests/abc081/tasks/abc081_b)                | Shift only                 | [atcoder_abc081_b.cpp](./atcoder_abc081_b.cpp)           |
 | [abc 085 task C](https://atcoder.jp/contests/abc085/tasks/abc085_c)                | Otoshidama                 | [atcoder_abc085_c.cpp](./atcoder_abc085_c.cpp)           |
 | [abc 086 task A](https://atcoder.jp/contests/abc086/tasks/abc086_a)                | Product                    | [atcoder_abc086_a.cpp](./atcoder_abc086_a.cpp)           |
+| [abc 096 task C](https://atcoder.jp/contests/abc096/tasks/abc096_c)                | Grid Repainting 2          | [atcoder_abc096_c.cpp](./atcoder_abc096_c.cpp)           |
 | [abc 115 task C](https://atcoder.jp/contests/abc115/tasks/abc115_c)                | Christmas Eve              | [atcoder_abc115_c.cpp](./atcoder_abc115_c.cpp)           |
+| [abc 118 task B](https://atcoder.jp/contests/abc118/tasks/abc118_b)                | Foods Loved by Everyone    | [atcoder_abc118_b.cpp](./atcoder_abc118_b.cpp)           |
+| [abc 121 task C](https://atcoder.jp/contests/abc121/tasks/abc121_c)                | Energy Drink Collector     | [atcoder_abc121_c.cpp](./atcoder_abc121_c.cpp)           |
 | [abc 128 task B](https://atcoder.jp/contests/abc128/tasks/abc128_b)                | Guidebook                  | [atcoder_abc128_b.cpp](./atcoder_abc128_b.cpp)           |
+| [abc 137 task C](https://atcoder.jp/contests/abc137/tasks/abc137_c)                | Green Bin                  | [atcoder_abc137_c.cpp](./atcoder_abc137_c.cpp)           |
 | [abc 146 task C](https://atcoder.jp/contests/abc146/tasks/abc146_c)                | Buy an Integer             | [atcoder_abc146_c.cpp](./atcoder_abc146_c.cpp)           |
 | [abc 155 task C](https://atcoder.jp/contests/abc155/tasks/abc155_c)                | Poll                       | [atcoder_abc155_c.cpp](./atcoder_abc155_c.cpp)           |
 | [abc 157 task A](https://atcoder.jp/contests/abc157/tasks/abc157_a)                | Duplex Printing            | [atcoder_abc157_a.cpp](./atcoder_abc157_a.cpp)           |
 | [abc 172 task C](https://atcoder.jp/contests/abc172/tasks/abc172_c)                | Tsundoku                   | [atcoder_abc172_c.cpp](./atcoder_abc172_c.cpp)           |
+| [abc 174 task C](https://atcoder.jp/contests/abc174/tasks/abc174_c)                | Repsept                    | [atcoder_abc174_c.cpp](./atcoder_abc174_c.cpp)           |
 | [abc 186 task D](https://atcoder.jp/contests/abc186/tasks/abc186_d)                | Sum of difference          | [atcoder_abc186_d.cpp](./atcoder_abc186_d.cpp)           |
 | [abc 190 task C](https://atcoder.jp/contests/abc190/tasks/abc190_c)                | Bowls and Dishes           | [atcoder_abc190_c.cpp](./atcoder_abc190_c.cpp)           |
 | [abc 199 task C](https://atcoder.jp/contests/abc199/tasks/abc199_c)                | IPFL                       | [atcoder_abc199_c.cpp](./atcoder_abc199_c.cpp)           |
 | [abc 200 task A](https://atcoder.jp/contests/abc200/tasks/abc200_a)                | Century                    | [atcoder_abc200_a.cpp](./atcoder_abc200_a.cpp)           |
 | [abc 200 task C](https://atcoder.jp/contests/abc200/tasks/abc200_c)                | Ringo's Favorite Numbers 2 | [atcoder_abc200_c.cpp](./atcoder_abc200_c.cpp)           |
+| [abc 202 task C](https://atcoder.jp/contests/abc202/tasks/abc202_c)                | Made Up                    | [atcoder_abc202_c.cpp](./atcoder_abc202_c.cpp)           |
+| [abc 212 task C](https://atcoder.jp/contests/abc212/tasks/abc212_c)                | Min Difference             | [atcoder_abc212_c.cpp](./atcoder_abc212_c.cpp)           |
+| [abc 216 task C](https://atcoder.jp/contests/abc216/tasks/abc216_c)                | Many Balls                 | [atcoder_abc216_c.cpp](./atcoder_abc216_c.cpp)           |
 | [abc 220 task C](https://atcoder.jp/contests/abc220/tasks/abc220_c)                | Long Sequence              | [atcoder_abc220_c.cpp](./atcoder_abc220_c.cpp)           |
 | [abc 231 task C](https://atcoder.jp/contests/abc231/tasks/abc231_c)                | Counting 2                 | [atcoder_abc231_c.cpp](./atcoder_abc231_c.cpp)           |
 | [abc 243 task C](https://atcoder.jp/contests/abc243/tasks/abc243_c)                | Collision 2                | [atcoder_abc243_c.cpp](./atcoder_abc243_c.cpp)           |
